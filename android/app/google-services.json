@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087833379857",
+    "project_id": "cmsc23-todo-app-gddiocadiz",
+    "storage_bucket": "cmsc23-todo-app-gddiocadiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087833379857:android:45e9198a3036bdd73c8db0",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZsPy6g0Qf13haBD1q-Aa1TVu-oxy1t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
